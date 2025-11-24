@@ -122,6 +122,16 @@ conda activate streamlit_pyspark
 streamlit run app_streamlit.py
 ```
 
+## Si no se cuenta con el entorno: 
+## Cómo reproducir el proyecto
+
+1. Clonar el repositorio.
+2. Crear y activar un entorno virtual.
+3. Instalar dependencias:
+   pip install -r requirements.txt
+4. Ejecutar la app:
+   streamlit run app_streamlit.py
+
 ---
 
 # 📁 **Estructura Técnica**
